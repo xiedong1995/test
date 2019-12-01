@@ -19,3 +19,4 @@ class TestMultiply:
 
 def git_test():
     print("git 测试")
+    print("git 第二次测试")
