@@ -16,3 +16,6 @@ class TestMultiply:
 
     def setup_method(self,method):
         print("setup_method")
+
+def git_test():
+    print("git 测试")
